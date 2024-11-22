@@ -1,2 +1,1 @@
-# data-sourcing-challenge
-This is Command Line Testing readme.md
+# Data Sourcing Challenge
